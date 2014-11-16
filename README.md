@@ -13,5 +13,5 @@ Contibutions:
 
 - Chirag Chauhan [@imcrc](http://twitter.com/imcrc)
 - [Amruta Barretto](http://www.github.com/amrutabarretto)
-- Shivali Sohoni
+- [Shivali Sohoni](http://www.github.com/shivalisohoni)
 
