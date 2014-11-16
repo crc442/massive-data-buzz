@@ -13,19 +13,3 @@ Contibutions:
 - [Amruta Barretto](http://www.github.com/amrutabarretto)
 - Shivali Sohoni
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Yolo!
