@@ -7,6 +7,8 @@ MASSIVE DATA PROJECT
 - Progress : 17%
 
 
+#### [@doc](https://docs.google.com/a/nyu.edu/document/d/1P9DbT8kY1V2rbHVhRKNeg7vVxDurw1RVD0KoUqeJF6g)
+
 
 Contibutions:
 ------------
