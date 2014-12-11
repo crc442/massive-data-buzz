@@ -1,9 +1,6 @@
 ![](http://img.shields.io/badge/unicorn-approved-ff69b4.svg?style=flat)
 
 
-[test](https://github.com/crc442/massive-data-buzz/tree/master/app)
-
-
 MASSIVE DATA PROJECT
 ===================
 
