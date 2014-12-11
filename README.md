@@ -1,5 +1,5 @@
+![] (http://forthebadge.com/badges/built-with-love.svg)
 ![] (http://forthebadge.com/badges/fo-shizzle.svg)
-![](http://img.shields.io/badge/unicorn-approved-ff69b4.svg?style=flat)
 
 
 MASSIVE DATA PROJECT
