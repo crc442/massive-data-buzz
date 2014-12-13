@@ -1,9 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/crc442/massive-data-buzz.png?label=ready&title=Ready)](https://waffle.io/crc442/massive-data-buzz)
 ![] (http://forthebadge.com/badges/built-with-love.svg)
 ![] (http://forthebadge.com/badges/fo-shizzle.svg)
 
 
-MASSIVE DATA PROJECT
+MASSIVE DATA PROJECT  [![Stories in Ready](https://badge.waffle.io/crc442/massive-data-buzz.png?label=ready&title=Ready)](https://waffle.io/crc442/massive-data-buzz)
 ===================
 
 - Name : Undecided
